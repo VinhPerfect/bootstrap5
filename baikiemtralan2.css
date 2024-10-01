@@ -1,0 +1,9 @@
+.box{
+    margin: 20px;
+}
+
+#header .carousel-inner img {
+    max-height: 120px; 
+    object-fit: cover; 
+    width: 100%;
+}
